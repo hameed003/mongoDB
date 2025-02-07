@@ -1,0 +1,30 @@
+=========For Atlas Database Access: ==========
+user1: 
+userName: hameed008
+pass: yRmQj5OYF6Ka4IGJ
+
+user2:
+userName: hameed
+pass: B0neLZcuxfY5aO7a
+
+
+========== MongoDB Atlas Setup video link: =============
+link1: https://www.youtube.com/watch?v=tkAmFt64DCk
+link2: https://www.youtube.com/watch?v=QyYMvdFwBKA
+
+
+========== DOUBTS ==============
+1: what is 'Network Access' setting in atlas.
+2: what is 'Database Access' setting in atlas.
+3: Organization Vs Projects Vs Clusters Vs Database Vs Collection in atlas.
+
+
+============== Important Points About MongoDB Atlas =================
+1: A MongoDB 'Cluster' is like a house for our databases.
+✅ Youtub Link: https://youtu.be/5feydQRZ298?si=fReW1429Ju6FSUVc
+
+2: we can only create one 'Cluster' in the free version of MongoDB Atlas.
+3: but we can create multiple Cluster for paid version.
+3: In MongoDB Atlas we first have an 'Organization' inside it we have 'Projects' inside Projects we have 'Clusters' and finally inside a 'Cluster' we have our 'Database's.
+
+Example: Myorganization --> MyProject --> MyCluster --> ( Database1, Database2, Database3 and so on ).

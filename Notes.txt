@@ -1,0 +1,5 @@
+1: vercel does not support ejs template engine.
+2: always keep your important data like ( id, pass or any other sensitive data ) inside the .env file.
+3: at the time of deployment set all your 'environment varaiable' to the hosting site.
+4: make sure that your website and database is not pointing to the localhost.
+5: use cors() function when ever you deploy a website online.
