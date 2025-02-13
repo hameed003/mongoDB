@@ -141,4 +141,4 @@ run().catch(console.error);
 
 🚀 Let me know if you need more clarification!
 
-### Doubt: Since we are connecting to an existing database i.e `myDatabase` using mongoClient, but what if there is no database present already. [Sol3-sub-sol-3]
+### Doubt: Since we are connecting to an existing database i.e `myDatabase` using mongoClient, but what if there is no database present already. [Sol3-sub-sol-3](https://github.com/hameed003/mongoDB/blob/main/doubts-and-solutions/solutions/Sol3-sub-sol-3.md)

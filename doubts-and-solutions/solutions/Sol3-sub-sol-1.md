@@ -100,4 +100,4 @@ insertProduct().catch((err) => console.error("Insertion failed:", err));
 
 🚀 Hope this makes sense! Let me know if you need more clarification.
 
-### Doubt: How to enforce a schema-like structure while using MongoClient (without Mongoose) ? [Sol3-sub-sol-2]()
+### Doubt: How to enforce a schema-like structure while using MongoClient (without Mongoose) ? [Sol3-sub-sol-2](https://github.com/hameed003/mongoDB/blob/main/doubts-and-solutions/solutions/Sol3-sub-sol-2.md)

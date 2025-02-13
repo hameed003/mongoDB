@@ -117,4 +117,4 @@ insertProduct();
 
 🚀 Let me know if you need more clarity!
 
-### Doubt: `It does not provide a schema—you work with raw collections and documents`. Can you explain this in more simple way with an example. [Sol3-sub-sol-1]()
+### Doubt: `It does not provide a schema—you work with raw collections and documents`. Can you explain this in more simple way with an example. [Sol3-sub-sol-1](https://github.com/hameed003/mongoDB/blob/main/doubts-and-solutions/solutions/Sol3-sub-sol-1.md)

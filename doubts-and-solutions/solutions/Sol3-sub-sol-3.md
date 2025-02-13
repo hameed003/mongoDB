@@ -57,4 +57,4 @@ show dbs
 
 Let me know if you need more clarification!
 
-### Doubt: `run().catch(console.error)` why you are using catch() here, and can we use catch() without try {} block?
+### Doubt: `run().catch(console.error)` why you are using catch() here, and can we use catch() without try {} block? [Sol3-sub-sol-4](https://github.com/hameed003/mongoDB/blob/main/doubts-and-solutions/solutions/Sol3-sub-sol-4.md)
