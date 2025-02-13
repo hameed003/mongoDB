@@ -208,4 +208,4 @@ db.products.find({ stock: { $mod: [2, 1] } });
 
 This should **fully** cover MongoDB queries from **basic to expert level**. Let me know if you need **more**! 🚀🔥
 
-### `db.products.find({}, { _id: 0, name: 1, price: 1 })` why we have used empty object `{ }` here. [View](https://github.com/hameed003/mongoDB/blob/main/doubts-and-solutions/solutions/Sol1.md)
+### Doubts: `db.products.find({}, { _id: 0, name: 1, price: 1 })` why we have used empty object `{ }` here. [View](https://github.com/hameed003/mongoDB/blob/main/doubts-and-solutions/solutions/Sol1.md)
