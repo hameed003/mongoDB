@@ -290,4 +290,4 @@ try {
 
 ✅ We covered **CRUD operations, aggregation, indexing, transactions, and optimization**.
 
-### More advance monngoDB queries: [View]()
+### More advance monngoDB queries: [View](https://github.com/hameed003/mongoDB/blob/main/basics-of-mongodb/more-advance-mongoDB-queries.md)
